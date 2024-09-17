@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Welcome to Muhammad Ridho's GitHub!
 
-<!--
-**AndreRidho/AndreRidho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Software Engineer | Flutter Enthusiast | Full Stack Developer**
 
-Here are some ideas to get you started:
+Hi there! I’m a passionate and skilled Software Engineer with a strong focus on mobile app development using **Flutter** 🚀 and web/API development using **Laravel** 🖥️. I thrive in high-pressure environments and bring a friendly and professional attitude to every project I take on. My name's Muhammad, but you can also call me Andre.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+- **Languages:** Dart, PHP, Ruby, Java, Python, C++, SQL, HTML, JavaScript
+- **Frameworks:** Flutter, Laravel, ReactJS, React Native, Rails
+- **Skills:** 
+  - Web & API Development
+  - Mobile App Development (Hybrid)
+- **Other Skills:** 
+  - Design with Figma 🎨, Adobe Photoshop 🖌️, Adobe Illustrator, Premiere Pro 🎥
+
+---
+
+🔗 **Get in touch**  
+[LinkedIn](https://www.linkedin.com/in/mbridho/) | 📧 **Email**: mbridho@gmail.com
+
+Thanks for stopping by! Looking forward to collaborating and building cool projects together! 😊
