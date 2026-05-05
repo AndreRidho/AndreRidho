@@ -5,7 +5,7 @@
 Hi there! I’m a passionate and skilled Software Engineer with a strong focus on mobile app development using **Flutter**, **React**, **React Native** and web/API development using **Node JS** (usually Typescript but JS too 💪) and **Laravel**. I thrive in high-pressure environments and bring a friendly and professional attitude to every project I take on. My name's Muhammad, but you can also call me Andre.
 
 ## 🛠️ Skills & Technologies
-- **Languages:** Typescipt, JavascriptDart, PHP, Ruby, Java, Python, C++, SQL, HTML
+- **Languages:** Typescipt, Javascript, Dart, PHP, Ruby, Java, Python, C++, SQL, HTML
 - **Frameworks:** Flutter, Laravel, ReactJS, React Native, NodeJS, NextJS, Rails
 - **Skills:** 
   - Web & API Development
